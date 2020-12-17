@@ -23,4 +23,5 @@
 ```
   https://flutter.dev/docs/deployment/obfuscate
 ```  
-![alt text]()
+
+Для просмотра демострации проекта приведены скриншоты в папке /demo
