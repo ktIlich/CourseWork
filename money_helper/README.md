@@ -1,6 +1,6 @@
 # moneyhelper
 
-Course Work(((((((((((((((
+Course Work
 
 ## Getting Started
 
